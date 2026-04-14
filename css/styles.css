@@ -1486,6 +1486,59 @@ img { max-width: 100%; display: block; }
   color: var(--foreground);
 }
 
+/* Sources & References */
+.sources-section {
+  margin-top: 60px;
+  padding: 32px;
+  background: var(--muted);
+  border-radius: var(--radius-md);
+  border: 2px solid var(--border);
+}
+
+.sources-section h3 {
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+  color: var(--foreground);
+}
+
+.sources-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.sources-list li {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: var(--muted-fg);
+  padding-left: 20px;
+  position: relative;
+}
+
+.sources-list li::before {
+  content: '→';
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.sources-list a {
+  color: var(--accent);
+  font-weight: 600;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.sources-list a:hover {
+  border-bottom-color: var(--accent);
+}
+
 /* Related Articles */
 .related-articles {
   margin-top: 60px;

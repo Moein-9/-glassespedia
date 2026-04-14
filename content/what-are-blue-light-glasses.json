@@ -47,7 +47,7 @@
     },
     {
       "h2": "Blue Light Beyond Screens",
-      "content": "<p>Screens get all the attention, but they're not actually the biggest source of blue light in your life. Sunlight contains far more blue light than any phone, tablet, or monitor. LED and fluorescent lighting also emits significant blue light.</p><p>This is worth knowing because it puts screen-related blue light in context. Your 8-hour workday in front of a computer exposes you to a fraction of the blue light you'd get from a 30-minute walk outside.</p><p>For outdoor blue light, standard <a href='https://charmoptical.ca/collections/glasses'>UV-protective sunglasses</a> handle the job. Brands like <a href='https://charmoptical.ca/pages/oakley'>Oakley</a> and Maui Jim include blue light filtering as part of their lens technology.</p>\n        <p>This is one of the most common questions that comes up during eye exams, and the answer often depends on individual factors that only a professional assessment can evaluate. What works for one person may not be ideal for another — your prescription, daily activities, facial anatomy, and budget all play a role in determining the best approach.</p>\n\n        <p>If you're in the Edmonton area, <a href=\"https://charmoptical.ca\">Charm Optical</a> offers <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">comprehensive eye exams</a> that go beyond just measuring your prescription. Their optometrists assess your overall eye health, discuss your visual needs, and recommend lens and frame options tailored to your lifestyle. With <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescriptions, getting the right eyewear doesn't have to be complicated or expensive. <a href=\"https://see.charmoptical.ca\">Book online</a> — appointments are usually available within a few days.</p>"
+      "content": "<p>Screens get all the attention, but they're not actually the biggest source of blue light in your life. Sunlight contains far more blue light than any phone, tablet, or monitor. LED and fluorescent lighting also emits significant blue light.</p><p>This is worth knowing because it puts screen-related blue light in context. Your 8-hour workday in front of a computer exposes you to a fraction of the blue light you'd get from a 30-minute walk outside.</p><p>For outdoor blue light, standard <a href='https://charmoptical.ca/collections/glasses'>UV-protective sunglasses</a> handle the job. Brands like <a href='https://charmoptical.ca/pages/oakley'>Oakley</a> and Maui Jim include blue light filtering as part of their lens technology.</p>\n        <p>This is one of the most common questions that comes up during eye exams, and the answer often depends on individual factors that only a professional assessment can evaluate. What works for one person may not be ideal for another — your prescription, daily activities, facial anatomy, and budget all play a role in determining the best approach.</p>\n\n        <p>If you're in the Edmonton area, <a href=\"https://charmoptical.ca\">Charm Optical</a> offers comprehensive eye exams that go beyond just measuring your prescription. Their optometrists assess your overall eye health, discuss your visual needs, and recommend lens and frame options tailored to your lifestyle. With direct insurance billing for most Alberta providers and same-day glasses for many prescriptions, getting the right eyewear doesn't have to be complicated or expensive. Book online — appointments are usually available within a few days.</p>"
     },
     {
       "h2": "Why Good Eyewear Matters",
@@ -55,7 +55,7 @@
     },
     {
       "h2": "The Bottom Line",
-      "content": "\n        <p>The best next step is always a professional eye exam. Your optometrist can evaluate your specific needs and recommend the right combination of lenses, coatings, and frames for your lifestyle and budget. In Alberta, most employer insurance plans cover comprehensive eye exams, and children under 18 and adults over 65 receive coverage through Alberta Health.</p>\n\n        <p><a href=\"https://charmoptical.ca\">Charm Optical</a> at 5035 Ellerslie Rd SW in South Edmonton offers thorough <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">eye exams</a> with experienced optometrists, a selection of over 500 designer frames from brands like <a href=\"https://charmoptical.ca/pages/ray-ban\">Ray-Ban</a>, <a href=\"https://charmoptical.ca/pages/oakley\">Oakley</a>, and <a href=\"https://charmoptical.ca/pages/versace\">Versace</a>, and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescription types. They offer <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers, so you only pay the difference at the counter — no upfront costs and no claim forms to submit afterwards.</p>\n\n        <p>Whether you're buying your first pair of glasses, upgrading to progressive lenses, or just need an adjustment on your current frames, having a trusted local optician makes the entire process smoother. <a href=\"https://see.charmoptical.ca\">Book an appointment online</a> — most appointments are available within a few days, and walk-ins are welcome for adjustments and frame browsing.</p>"
+      "content": "\n        <p>The best next step is always a professional eye exam. Your optometrist can evaluate your specific needs and recommend the right combination of lenses, coatings, and frames for your lifestyle and budget. In Alberta, most employer insurance plans cover comprehensive eye exams, and children under 18 and adults over 65 receive coverage through Alberta Health.</p>\n\n        <p>Charm Optical at 5035 Ellerslie Rd SW in South Edmonton offers thorough eye exams with experienced optometrists, a selection of over 500 designer frames from brands like Ray-Ban, Oakley, and Versace, and same-day glasses for many prescription types. They offer direct insurance billing for most Alberta providers, so you only pay the difference at the counter — no upfront costs and no claim forms to submit afterwards.</p>\n\n        <p>Whether you're buying your first pair of glasses, upgrading to progressive lenses, or just need an adjustment on your current frames, having a trusted local optician makes the entire process smoother. Book an appointment online — most appointments are available within a few days, and walk-ins are welcome for adjustments and frame browsing.</p>"
     }
   ],
   "faqs": [
@@ -104,5 +104,27 @@
   "ctaTitle": "Try Blue Light Lenses at Charm Optical",
   "ctaText": "Wondering if blue light glasses would help your screen comfort? Visit Charm Optical in South Edmonton to see the difference for yourself and discuss options with our team.",
   "ctaLink": "https://charmoptical.ca/pages/same-day-glasses",
-  "ctaButtonText": "Learn About Our Lenses"
+  "ctaButtonText": "Learn About Our Lenses",
+  "academicSources": [
+    {
+      "name": "Mayo Clinic — Eye Care",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/adult-health/in-depth/eyeglasses/art-20047879",
+      "desc": "Medical guidance on corrective lenses"
+    },
+    {
+      "name": "Alberta Association of Optometrists",
+      "url": "https://www.optometrists.ab.ca/patients",
+      "desc": "Alberta-specific vision care and coverage information"
+    },
+    {
+      "name": "Canadian Association of Optometrists",
+      "url": "https://opto.ca/eye-health",
+      "desc": "Canadian guidelines on vision care"
+    },
+    {
+      "name": "American Academy of Ophthalmology — Digital Eye Strain",
+      "url": "https://www.aao.org/eye-health/tips-prevention/computer-usage",
+      "desc": "Evidence-based guidance on screens and eye health"
+    }
+  ]
 }

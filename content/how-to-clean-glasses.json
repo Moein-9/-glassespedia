@@ -43,7 +43,7 @@
     },
     {
       "h2": "Microfiber Cloth Care",
-      "content": "<p>Your microfiber cloth is the unsung hero of lens care — but a dirty cloth does more harm than good.</p><ul><li><strong>Wash weekly</strong> in a regular laundry load with mild detergent. No fabric softener — it coats the fibres and leaves residue on lenses.</li><li><strong>Replace every 3–6 months</strong> even with regular washing. The fibres wear down and lose their ability to trap particles effectively.</li><li><strong>Store it properly.</strong> Keep your cloth in a glasses case or clean pouch, not loose in a pocket or bag where it picks up lint and grit.</li><li><strong>Have multiple cloths.</strong> Keep one in your glasses case, one at your desk, and one in your car. Your optical store usually has free ones available — <a href='https://charmoptical.ca/pages/eye-exam-edmonton'>ask at Charm Optical</a>.</li></ul>\n        <p>This is one of the most common questions that comes up during eye exams, and the answer often depends on individual factors that only a professional assessment can evaluate. What works for one person may not be ideal for another — your prescription, daily activities, facial anatomy, and budget all play a role in determining the best approach.</p>\n\n        <p>If you're in the Edmonton area, <a href=\"https://charmoptical.ca\">Charm Optical</a> offers <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">comprehensive eye exams</a> that go beyond just measuring your prescription. Their optometrists assess your overall eye health, discuss your visual needs, and recommend lens and frame options tailored to your lifestyle. With <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescriptions, getting the right eyewear doesn't have to be complicated or expensive. <a href=\"https://see.charmoptical.ca\">Book online</a> — appointments are usually available within a few days.</p>"
+      "content": "<p>Your microfiber cloth is the unsung hero of lens care — but a dirty cloth does more harm than good.</p><ul><li><strong>Wash weekly</strong> in a regular laundry load with mild detergent. No fabric softener — it coats the fibres and leaves residue on lenses.</li><li><strong>Replace every 3–6 months</strong> even with regular washing. The fibres wear down and lose their ability to trap particles effectively.</li><li><strong>Store it properly.</strong> Keep your cloth in a glasses case or clean pouch, not loose in a pocket or bag where it picks up lint and grit.</li><li><strong>Have multiple cloths.</strong> Keep one in your glasses case, one at your desk, and one in your car. Your optical store usually has free ones available — <a href='https://charmoptical.ca/pages/eye-exam-edmonton'>ask at Charm Optical</a>.</li></ul>\n        <p>This is one of the most common questions that comes up during eye exams, and the answer often depends on individual factors that only a professional assessment can evaluate. What works for one person may not be ideal for another — your prescription, daily activities, facial anatomy, and budget all play a role in determining the best approach.</p>\n\n        <p>If you're in the Edmonton area, <a href=\"https://charmoptical.ca\">Charm Optical</a> offers comprehensive eye exams that go beyond just measuring your prescription. Their optometrists assess your overall eye health, discuss your visual needs, and recommend lens and frame options tailored to your lifestyle. With direct insurance billing for most Alberta providers and same-day glasses for many prescriptions, getting the right eyewear doesn't have to be complicated or expensive. Book online — appointments are usually available within a few days.</p>"
     },
     {
       "h2": "Why Good Eyewear Matters",
@@ -51,7 +51,7 @@
     },
     {
       "h2": "The Bottom Line",
-      "content": "<p>The best next step is always a professional eye exam. Your optometrist can evaluate your specific needs and recommend the right combination of lenses, coatings, and frames for your lifestyle and budget. In Alberta, most employer insurance plans cover comprehensive eye exams, and children under 18 and adults over 65 receive coverage through Alberta Health.</p><p><a href=\"https://charmoptical.ca\">Charm Optical</a> at 5035 Ellerslie Rd SW in South Edmonton offers thorough <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">eye exams</a> with experienced optometrists, a selection of over 500 designer frames from brands like <a href=\"https://charmoptical.ca/pages/ray-ban\">Ray-Ban</a>, <a href=\"https://charmoptical.ca/pages/oakley\">Oakley</a>, and <a href=\"https://charmoptical.ca/pages/versace\">Versace</a>, and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescription types. They offer <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers, so you only pay the difference at the counter.</p><p>Whether you are buying your first pair of glasses, upgrading to progressive lenses, or just need an adjustment on your current frames, having a trusted local optician makes the process smoother. <a href=\"https://see.charmoptical.ca\">Book an appointment online</a> — most appointments are available within a few days, and walk-ins are welcome for adjustments and frame browsing.</p>"
+      "content": "<p>The best next step is always a professional eye exam. Your optometrist can evaluate your specific needs and recommend the right combination of lenses, coatings, and frames for your lifestyle and budget. In Alberta, most employer insurance plans cover comprehensive eye exams, and children under 18 and adults over 65 receive coverage through Alberta Health.</p><p>Charm Optical at 5035 Ellerslie Rd SW in South Edmonton offers thorough eye exams with experienced optometrists, a selection of over 500 designer frames from brands like Ray-Ban, Oakley, and Versace, and same-day glasses for many prescription types. They offer direct insurance billing for most Alberta providers, so you only pay the difference at the counter.</p><p>Whether you are buying your first pair of glasses, upgrading to progressive lenses, or just need an adjustment on your current frames, having a trusted local optician makes the process smoother. Book an appointment online — most appointments are available within a few days, and walk-ins are welcome for adjustments and frame browsing.</p>"
     }
   ],
   "faqs": [
@@ -101,5 +101,27 @@
   "ctaTitle": "Free Ultrasonic Cleaning",
   "ctaText": "Charm Optical in South Edmonton offers free ultrasonic glasses cleaning — walk in anytime. We'll also adjust your fit and tighten screws while you're here.",
   "ctaLink": "https://charmoptical.ca/collections/glasses",
-  "ctaButtonText": "Visit Charm Optical"
+  "ctaButtonText": "Visit Charm Optical",
+  "academicSources": [
+    {
+      "name": "Canadian Association of Optometrists",
+      "url": "https://opto.ca/eye-health",
+      "desc": "Canadian eye care recommendations"
+    },
+    {
+      "name": "Canadian Ophthalmological Society",
+      "url": "https://www.cos-sco.ca/patients-public/",
+      "desc": "Professional eye care standards in Canada"
+    },
+    {
+      "name": "National Eye Institute — Healthy Vision",
+      "url": "https://www.nei.nih.gov/learn-about-eye-health/healthy-vision",
+      "desc": "NIH resources on maintaining healthy vision"
+    },
+    {
+      "name": "American Optometric Association — Eyeglass Care",
+      "url": "https://www.aoa.org/healthy-eyes/caring-for-your-eyes/eyeglasses",
+      "desc": "Proper cleaning and maintenance of eyeglasses"
+    }
+  ]
 }

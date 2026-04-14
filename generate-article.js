@@ -134,15 +134,6 @@ ${d.definition ? `
         <span>Reviewed by opticians</span>
       </div>
 
-      <a href="https://charmoptical.ca/collections/glasses" target="_blank" rel="noopener" class="charm-callout">
-        <span class="gp-icon" data-icon="glasses" data-color="violet"></span>
-        <div class="charm-callout-text">
-          <h4>Find eyewear like this at Charm Optical</h4>
-          <p>500+ designer frames in South Edmonton. Same-day glasses available. Direct insurance billing.</p>
-        </div>
-        <span class="charm-callout-arrow">&rarr;</span>
-      </a>
-
       <div class="toc" id="autoToc"><h4>In This Article</h4></div>
 
       <article class="article-content">
@@ -170,6 +161,14 @@ ${d.faqs.map(f => `          <div class="faq-item">
             <button class="faq-question">${f.q}</button>
             <div class="faq-answer"><div class="faq-answer-inner">${f.a}</div></div>
           </div>`).join('\n')}
+        </div>
+` : ''}
+${d.academicSources && d.academicSources.length ? `
+        <div class="sources-section">
+          <h3>Sources &amp; Further Reading</h3>
+          <ul class="sources-list">
+${d.academicSources.map(s => `            <li><a href="${s.url}" target="_blank" rel="noopener nofollow">${s.name}</a> — ${s.desc}</li>`).join('\n')}
+          </ul>
         </div>
 ` : ''}
 ${d.related && d.related.length ? `

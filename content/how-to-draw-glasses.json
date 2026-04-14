@@ -51,7 +51,7 @@
     },
     {
       "h2": "Practice Exercise: Draw Five Frame Styles",
-      "content": "<p>Grab a pencil and try drawing these five frame styles in a row, front view:</p><ol><li>Rectangular (simple, professional)</li><li>Round (John Lennon style)</li><li>Aviator (teardrop shape, double bridge)</li><li>Cat-eye (upswept outer corners)</li><li>Browline (thick top, thin bottom)</li></ol><p>Draw each one three times: once as just the frames, once on a simple face outline, and once with details (reflections, shadows, thickness). By the time you've done all fifteen sketches, the proportions and shapes will feel natural.</p><p>Use real eyewear photos as reference. Look at how different frame brands handle proportions — a Ray-Ban Wayfarer has different curves than an Oakley or a Gucci frame. These subtle differences make illustrations feel specific and authentic.</p>\n        <p>The best way to evaluate frame styles is to try them on in person. Photos and online try-on tools give a rough idea, but they can't replicate how a frame feels on your face — the weight distribution, the temple pressure, and how the nose bridge sits. These comfort factors matter more than aesthetics for glasses you'll wear 12+ hours a day.</p>\n\n        <p><a href=\"https://charmoptical.ca/collections/glasses\">Charm Optical in Edmonton carries over 500 frames</a> from brands including <a href=\"https://charmoptical.ca/pages/ray-ban\">Ray-Ban</a>, <a href=\"https://charmoptical.ca/pages/oakley\">Oakley</a>, <a href=\"https://charmoptical.ca/pages/versace\">Versace</a>, Tom Ford, Burberry, Prada, and Dolce & Gabbana. Their opticians help you narrow down the options based on your face shape, prescription requirements (especially important for progressives), and personal style preferences. With <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day service</a> for many prescriptions, you can walk in and walk out with new glasses the same day.</p>"
+      "content": "<p>Grab a pencil and try drawing these five frame styles in a row, front view:</p><ol><li>Rectangular (simple, professional)</li><li>Round (John Lennon style)</li><li>Aviator (teardrop shape, double bridge)</li><li>Cat-eye (upswept outer corners)</li><li>Browline (thick top, thin bottom)</li></ol><p>Draw each one three times: once as just the frames, once on a simple face outline, and once with details (reflections, shadows, thickness). By the time you've done all fifteen sketches, the proportions and shapes will feel natural.</p><p>Use real eyewear photos as reference. Look at how different frame brands handle proportions — a Ray-Ban Wayfarer has different curves than an Oakley or a Gucci frame. These subtle differences make illustrations feel specific and authentic.</p>\n        <p>The best way to evaluate frame styles is to try them on in person. Photos and online try-on tools give a rough idea, but they can't replicate how a frame feels on your face — the weight distribution, the temple pressure, and how the nose bridge sits. These comfort factors matter more than aesthetics for glasses you'll wear 12+ hours a day.</p>\n\n        <p><a href=\"https://charmoptical.ca/collections/glasses\">Charm Optical in Edmonton carries over 500 frames</a> from brands including Ray-Ban, Oakley, Versace, Tom Ford, Burberry, Prada, and Dolce & Gabbana. Their opticians help you narrow down the options based on your face shape, prescription requirements (especially important for progressives), and personal style preferences. With same-day service for many prescriptions, you can walk in and walk out with new glasses the same day.</p>"
     },
     {
       "h2": "Why Good Eyewear Matters",
@@ -59,7 +59,7 @@
     },
     {
       "h2": "The Bottom Line",
-      "content": "<p>The best next step is always a professional eye exam. Your optometrist can evaluate your specific needs and recommend the right combination of lenses, coatings, and frames for your lifestyle and budget. In Alberta, most employer insurance plans cover comprehensive eye exams, and children under 18 and adults over 65 receive coverage through Alberta Health.</p><p><a href=\"https://charmoptical.ca\">Charm Optical</a> at 5035 Ellerslie Rd SW in South Edmonton offers thorough <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">eye exams</a> with experienced optometrists, a selection of over 500 designer frames from brands like <a href=\"https://charmoptical.ca/pages/ray-ban\">Ray-Ban</a>, <a href=\"https://charmoptical.ca/pages/oakley\">Oakley</a>, and <a href=\"https://charmoptical.ca/pages/versace\">Versace</a>, and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescription types. They offer <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers, so you only pay the difference at the counter.</p><p>Whether you are buying your first pair of glasses, upgrading to progressive lenses, or just need an adjustment on your current frames, having a trusted local optician makes the process smoother. <a href=\"https://see.charmoptical.ca\">Book an appointment online</a> — most appointments are available within a few days, and walk-ins are welcome for adjustments and frame browsing.</p>"
+      "content": "<p>The best next step is always a professional eye exam. Your optometrist can evaluate your specific needs and recommend the right combination of lenses, coatings, and frames for your lifestyle and budget. In Alberta, most employer insurance plans cover comprehensive eye exams, and children under 18 and adults over 65 receive coverage through Alberta Health.</p><p>Charm Optical at 5035 Ellerslie Rd SW in South Edmonton offers thorough eye exams with experienced optometrists, a selection of over 500 designer frames from brands like Ray-Ban, Oakley, and Versace, and same-day glasses for many prescription types. They offer direct insurance billing for most Alberta providers, so you only pay the difference at the counter.</p><p>Whether you are buying your first pair of glasses, upgrading to progressive lenses, or just need an adjustment on your current frames, having a trusted local optician makes the process smoother. Book an appointment online — most appointments are available within a few days, and walk-ins are welcome for adjustments and frame browsing.</p>"
     }
   ],
   "faqs": [
@@ -78,10 +78,6 @@
     {
       "q": "What's the best reference for drawing glasses?",
       "a": "Real glasses are the best reference. Visit an optical store like Charm Optical to see different frame styles up close, or search eyewear brand websites for high-resolution photos showing front, side, and three-quarter views of different frame types."
-    },
-    {
-      "q": "Where can I get glasses in Edmonton?",
-      "a": "Charm Optical at 5035 Ellerslie Rd SW carries 500+ designer frames from Ray-Ban, Oakley, Versace, Tom Ford, and more. They offer comprehensive eye exams, same-day glasses for many prescriptions, professional fitting, and direct insurance billing for most Alberta providers. Book online at see.charmoptical.ca."
     }
   ],
   "related": [
@@ -104,5 +100,27 @@
   "ctaTitle": "Need Inspiration? See Real Frames Up Close",
   "ctaText": "Charm Optical in South Edmonton carries hundreds of frames from brands like Ray-Ban, Gucci, Oakley, and more. Whether you're an artist looking for reference or someone who needs new glasses, the team is happy to help.",
   "ctaLink": "https://charmoptical.ca/collections/glasses",
-  "ctaButtonText": "Browse Frame Styles"
+  "ctaButtonText": "Browse Frame Styles",
+  "academicSources": [
+    {
+      "name": "National Eye Institute",
+      "url": "https://www.nei.nih.gov/learn-about-eye-health/healthy-vision/get-your-eyes-examined",
+      "desc": "Eye health and vision correction resources"
+    },
+    {
+      "name": "World Health Organization — Vision",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/blindness-and-visual-impairment",
+      "desc": "Global vision impairment statistics and prevention"
+    },
+    {
+      "name": "American Academy of Ophthalmology — EyeSmart",
+      "url": "https://www.aao.org/eye-health",
+      "desc": "Peer-reviewed eye health information"
+    },
+    {
+      "name": "Canadian Association of Optometrists",
+      "url": "https://opto.ca/eye-health",
+      "desc": "Canadian guidelines on vision care"
+    }
+  ]
 }

@@ -51,7 +51,7 @@
     },
     {
       "h2": "When to Visit Your Optician for Professional Help",
-      "content": "<p>While many glasses issues can be handled at home, some problems require professional tools and expertise. Bent metal frames need careful adjustment with pliers designed specifically for eyewear — using household tools risks snapping the frame. Nose pad replacement requires the exact size and shape for your frame model. And any adjustment that changes how the lenses sit in front of your eyes can affect your vision quality.</p>\n\n        <p>Most optical stores offer free adjustments for glasses purchased from them. At <a href=\"https://charmoptical.ca\">Charm Optical in Edmonton</a>, the opticians will adjust your frames, replace nose pads, tighten screws, and check your lens alignment at no charge — even if your glasses weren't purchased there. This kind of ongoing service is one of the biggest advantages of buying from a local optical store versus ordering online.</p>\n\n        <p>If your lenses are scratched, foggy, or the coatings are peeling, it's time for new lenses rather than a repair. Many lens types are available for <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses at Charm Optical</a> at Charm Optical, and their <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> means you can use your benefits toward the replacement. <a href=\"https://see.charmoptical.ca\">book an eye exam online</a> to get your prescription checked while you're there — it may have changed since your last visit.</p>"
+      "content": "<p>While many glasses issues can be handled at home, some problems require professional tools and expertise. Bent metal frames need careful adjustment with pliers designed specifically for eyewear — using household tools risks snapping the frame. Nose pad replacement requires the exact size and shape for your frame model. And any adjustment that changes how the lenses sit in front of your eyes can affect your vision quality.</p>\n\n        <p>Most optical stores offer free adjustments for glasses purchased from them. At <a href=\"https://charmoptical.ca\">Charm Optical in Edmonton</a>, the opticians will adjust your frames, replace nose pads, tighten screws, and check your lens alignment at no charge — even if your glasses weren't purchased there. This kind of ongoing service is one of the biggest advantages of buying from a local optical store versus ordering online.</p>\n\n        <p>If your lenses are scratched, foggy, or the coatings are peeling, it's time for new lenses rather than a repair. Many lens types are available for same-day glasses at Charm Optical at Charm Optical, and their direct insurance billing means you can use your benefits toward the replacement. book an eye exam online to get your prescription checked while you're there — it may have changed since your last visit.</p>"
     },
     {
       "h2": "Why Good Eyewear Matters",
@@ -59,7 +59,7 @@
     },
     {
       "h2": "The Bottom Line",
-      "content": "<p>The best next step is always a professional eye exam. Your optometrist can evaluate your specific needs and recommend the right combination of lenses, coatings, and frames for your lifestyle and budget. In Alberta, most employer insurance plans cover comprehensive eye exams, and children under 18 and adults over 65 receive coverage through Alberta Health.</p><p><a href=\"https://charmoptical.ca\">Charm Optical</a> at 5035 Ellerslie Rd SW in South Edmonton offers thorough <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">eye exams</a> with experienced optometrists, a selection of over 500 designer frames from brands like <a href=\"https://charmoptical.ca/pages/ray-ban\">Ray-Ban</a>, <a href=\"https://charmoptical.ca/pages/oakley\">Oakley</a>, and <a href=\"https://charmoptical.ca/pages/versace\">Versace</a>, and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescription types. They offer <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers, so you only pay the difference at the counter.</p><p>Whether you are buying your first pair of glasses, upgrading to progressive lenses, or just need an adjustment on your current frames, having a trusted local optician makes the process smoother. <a href=\"https://see.charmoptical.ca\">Book an appointment online</a> — most appointments are available within a few days, and walk-ins are welcome for adjustments and frame browsing.</p>"
+      "content": "<p>The best next step is always a professional eye exam. Your optometrist can evaluate your specific needs and recommend the right combination of lenses, coatings, and frames for your lifestyle and budget. In Alberta, most employer insurance plans cover comprehensive eye exams, and children under 18 and adults over 65 receive coverage through Alberta Health.</p><p>Charm Optical at 5035 Ellerslie Rd SW in South Edmonton offers thorough eye exams with experienced optometrists, a selection of over 500 designer frames from brands like Ray-Ban, Oakley, and Versace, and same-day glasses for many prescription types. They offer direct insurance billing for most Alberta providers, so you only pay the difference at the counter.</p><p>Whether you are buying your first pair of glasses, upgrading to progressive lenses, or just need an adjustment on your current frames, having a trusted local optician makes the process smoother. Book an appointment online — most appointments are available within a few days, and walk-ins are welcome for adjustments and frame browsing.</p>"
     }
   ],
   "faqs": [
@@ -108,5 +108,27 @@
   "ctaTitle": "Glasses Need More Than a Cleaning?",
   "ctaText": "Charm Optical offers free ultrasonic cleaning and frame adjustments. If your lenses are scratched or coatings are worn, we can help you with replacement lenses or a fresh pair.",
   "ctaLink": "https://charmoptical.ca",
-  "ctaButtonText": "Visit Us in Edmonton"
+  "ctaButtonText": "Visit Us in Edmonton",
+  "academicSources": [
+    {
+      "name": "Prevent Blindness",
+      "url": "https://preventblindness.org",
+      "desc": "Eye safety and injury prevention resources"
+    },
+    {
+      "name": "American Optometric Association — Caring for Eyes",
+      "url": "https://www.aoa.org/healthy-eyes/caring-for-your-eyes",
+      "desc": "Daily eye care best practices"
+    },
+    {
+      "name": "American Academy of Ophthalmology — Eye Care Tips",
+      "url": "https://www.aao.org/eye-health/tips-prevention",
+      "desc": "Preventive eye care guidance from ophthalmologists"
+    },
+    {
+      "name": "American Optometric Association — Eyeglass Care",
+      "url": "https://www.aoa.org/healthy-eyes/caring-for-your-eyes/eyeglasses",
+      "desc": "Proper cleaning and maintenance of eyeglasses"
+    }
+  ]
 }
