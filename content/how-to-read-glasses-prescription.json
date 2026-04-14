@@ -4,7 +4,7 @@
   "description": "Decode your glasses prescription — SPH, CYL, AXIS, ADD, PD, and more. We explain what every number means in plain English with real examples.",
   "category": "prescriptions",
   "readTime": "8 min",
-  "date": "2026-05-24",
+  "date": "2026-05-21",
   "tldr": "Your glasses prescription includes SPH (nearsighted/farsighted power), CYL + AXIS (astigmatism correction), ADD (reading magnification for presbyopia), and PD (pupillary distance for lens centering). Minus SPH values mean nearsighted; plus means farsighted. The higher the number, the stronger the correction needed.",
   "tldrStats": [
     {
