@@ -234,6 +234,65 @@ xml += '</urlset>';
 fs.writeFileSync('./sitemap.xml', xml);
 
 // ──────────────────────────────────────────────
+// 4b. Update homepage Latest Reads — inject 6 most recent published
+// ──────────────────────────────────────────────
+console.log(`\nStep 4: Updating homepage Latest Reads...`);
+
+let homeHtml = fs.readFileSync('./index.html', 'utf8');
+
+// Get the 6 most recently published articles (newest first)
+const latestSpecs = [...published].reverse().slice(0, 6);
+
+// Also include originals that have no spec (they're already live)
+const originalsWithoutSpec = liveArticles.filter(s => !specMap[s]);
+
+// Combine: scheduled published (newest first) + originals, take 6
+const latestPool = [];
+latestSpecs.forEach(s => latestPool.push(s));
+originalsWithoutSpec.forEach(slug => {
+  if (latestPool.length < 6) {
+    latestPool.push({
+      slug,
+      title: capitalize(slug),
+      category: guessCat(slug),
+      description: 'Read the full article on GlassesPedia.',
+      readTime: '7 min',
+      date: '2026-04-12'
+    });
+  }
+});
+
+const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+
+let readsHtml = '';
+latestPool.slice(0, 6).forEach((s, i) => {
+  const num = String(i + 1).padStart(2, '0');
+  const [y, m] = s.date.split('-');
+  const monthLabel = months[parseInt(m) - 1] + ' ' + y;
+  const desc = (s.description || '').substring(0, 130);
+  readsHtml += `      <a href="/articles/${s.slug}" class="read-item">
+        <div class="read-thumb"><span class="thumb-label">${num}</span></div>
+        <div class="read-info">
+          <span class="read-cat">${capitalize(s.category)}</span>
+          <h3>${s.title}</h3>
+          <p>${desc}</p>
+        </div>
+        <div class="read-meta">
+          <span>${s.readTime || '7 min'}</span>
+          <span>${monthLabel}</span>
+        </div>
+      </a>\n`;
+});
+
+// Replace entire reads-list content (works on first build AND subsequent builds)
+homeHtml = homeHtml.replace(
+  /(<div class="reads-list">)([\s\S]*?)(<\/div>\s*<\/section>\s*<!-- ABOUT BAR -->)/,
+  '$1\n' + readsHtml + '    $3'
+);
+fs.writeFileSync('./index.html', homeHtml, 'utf8');
+console.log(`Injected ${Math.min(latestPool.length, 6)} latest articles into homepage`);
+
+// ──────────────────────────────────────────────
 // 5. Summary
 // ──────────────────────────────────────────────
 console.log(`\n╔══════════════════════════════════════════════╗`);
