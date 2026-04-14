@@ -1,0 +1,11 @@
+{
+  "name": "glassespedia",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node build-site.js",
+    "preview": "node build-site.js && npx serve .",
+    "build-all": "node build-site.js --all",
+    "build-date": "node build-site.js"
+  }
+}

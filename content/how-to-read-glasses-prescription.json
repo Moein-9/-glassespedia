@@ -1,0 +1,121 @@
+{
+  "slug": "how-to-read-glasses-prescription",
+  "title": "How to Read Your Glasses Prescription: Every Number Explained",
+  "description": "Decode your glasses prescription — SPH, CYL, AXIS, ADD, PD, and more. We explain what every number means in plain English with real examples.",
+  "category": "prescriptions",
+  "readTime": "8 min",
+  "date": "2026-05-24",
+  "tldr": "Your glasses prescription includes SPH (nearsighted/farsighted power), CYL + AXIS (astigmatism correction), ADD (reading magnification for presbyopia), and PD (pupillary distance for lens centering). Minus SPH values mean nearsighted; plus means farsighted. The higher the number, the stronger the correction needed.",
+  "tldrStats": [
+    {
+      "value": "SPH",
+      "label": "Main Power"
+    },
+    {
+      "value": "CYL/AXIS",
+      "label": "Astigmatism"
+    },
+    {
+      "value": "ADD",
+      "label": "Reading Power"
+    }
+  ],
+  "definition": {
+    "term": "Glasses Prescription",
+    "text": "A glasses prescription (written as Rx) is a medical document from an optometrist or ophthalmologist that specifies the exact lens powers, corrections, and measurements needed to correct a person's refractive errors — including nearsightedness, farsightedness, astigmatism, and presbyopia."
+  },
+  "sections": [
+    {
+      "h2": "Anatomy of a Glasses Prescription",
+      "content": "<p>A typical glasses prescription looks like a small table with your right eye (OD — oculus dexter) on top and left eye (OS — oculus sinister) below. Sometimes you'll see OU, which means both eyes. Here's an example:</p><table><thead><tr><th></th><th>SPH</th><th>CYL</th><th>AXIS</th><th>ADD</th></tr></thead><tbody><tr><td>OD (Right)</td><td>-2.25</td><td>-0.75</td><td>180</td><td>+1.50</td></tr><tr><td>OS (Left)</td><td>-1.75</td><td>-1.00</td><td>175</td><td>+1.50</td></tr></tbody></table><p>Somewhere else on the prescription (or on a separate slip) you'll find your PD (pupillary distance), which measures the distance between your pupils in millimeters.</p><p>If this looks like a foreign language right now, don't worry — we'll translate each number below.</p>\n        <p>This is one of the most common questions that comes up during eye exams, and the answer often depends on individual factors that only a professional assessment can evaluate. What works for one person may not be ideal for another — your prescription, daily activities, facial anatomy, and budget all play a role in determining the best approach.</p>\n\n        <p>If you're in the Edmonton area, <a href=\"https://charmoptical.ca\">Charm Optical</a> offers <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">comprehensive eye exams</a> that go beyond just measuring your prescription. Their optometrists assess your overall eye health, discuss your visual needs, and recommend lens and frame options tailored to your lifestyle. With <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescriptions, getting the right eyewear doesn't have to be complicated or expensive. <a href=\"https://see.charmoptical.ca\">Book online</a> — appointments are usually available within a few days.</p>"
+    },
+    {
+      "h2": "SPH (Sphere): Your Main Correction Power",
+      "content": "<p>SPH is the primary lens power that corrects nearsightedness or farsightedness. It's measured in diopters (D) and can be positive or negative.</p><ul><li><strong>Minus (−) values = nearsighted (myopia).</strong> You see nearby objects clearly but distant objects are blurry. Example: −2.25 means moderate nearsightedness.</li><li><strong>Plus (+) values = farsighted (hyperopia).</strong> Distant objects may be clear but near objects are blurry. Example: +1.50 means mild farsightedness.</li><li><strong>Higher numbers = stronger correction needed.</strong> −1.00 is mild; −6.00 is strong. +1.00 is mild; +4.00 is strong.</li><li><strong>0.00 or 'plano' = no sphere correction needed.</strong> You might still have astigmatism (CYL value) or need reading help (ADD).</li></ul><p>Most prescriptions fall between −8.00 and +6.00, though they can go higher. Strong prescriptions (beyond ±4.00) benefit from high-index lenses to keep the lenses thin. <a href='https://charmoptical.ca/collections/glasses'>Your optician at Charm Optical</a> can recommend the right lens material based on your SPH value.</p>"
+    },
+    {
+      "h2": "CYL (Cylinder) and AXIS: Astigmatism Correction",
+      "content": "<p>If you have astigmatism, your cornea is shaped more like a football than a basketball — it curves more in one direction than the other. CYL and AXIS work together to correct this.</p><ul><li><strong>CYL (Cylinder):</strong> The power of the astigmatism correction, measured in diopters. Usually written as a minus value (−0.25 to −4.00 or higher). If this field is blank or says 'SPH', you don't have astigmatism.</li><li><strong>AXIS:</strong> The angle (1–180 degrees) where the CYL correction is positioned on the lens. AXIS only appears when there's a CYL value — they always go together.</li></ul><p>Example: CYL −0.75 at AXIS 180 means you have mild astigmatism corrected along the horizontal plane. Most astigmatism is mild (under −1.50) and easily corrected. Higher CYL values may affect which frame shapes work best for you.</p>\n        <p>This is one of the most common questions that comes up during eye exams, and the answer often depends on individual factors that only a professional assessment can evaluate. What works for one person may not be ideal for another — your prescription, daily activities, facial anatomy, and budget all play a role in determining the best approach.</p>\n\n        <p>If you're in the Edmonton area, <a href=\"https://charmoptical.ca\">Charm Optical</a> offers <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">comprehensive eye exams</a> that go beyond just measuring your prescription. Their optometrists assess your overall eye health, discuss your visual needs, and recommend lens and frame options tailored to your lifestyle. With <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescriptions, getting the right eyewear doesn't have to be complicated or expensive. <a href=\"https://see.charmoptical.ca\">Book online</a> — appointments are usually available within a few days.</p>"
+    },
+    {
+      "h2": "ADD (Addition): Reading Power for Presbyopia",
+      "content": "<p>ADD appears on prescriptions for people (usually over 40) who need extra magnification for reading and close work. It's the additional power added on top of your distance prescription for the reading portion of bifocal or progressive lenses.</p><ul><li>ADD values are always positive (+0.75 to +3.50 typically)</li><li>ADD is usually the same for both eyes</li><li>Higher ADD = more magnification for reading</li><li>If your prescription has an ADD value, you need multifocal lenses (progressive or bifocal) OR dedicated reading glasses</li></ul><p>Your ADD power tends to increase gradually over the years as presbyopia progresses. By the mid-60s, most people have reached their maximum ADD around +2.50 to +3.00.</p><p>If your prescription includes an ADD value, <a href='https://charmoptical.ca/pages/same-day-glasses'>ask about progressive lens options</a> — they incorporate your distance, intermediate, and reading corrections into one seamless lens.</p>\n        <p>This is one of the most common questions that comes up during eye exams, and the answer often depends on individual factors that only a professional assessment can evaluate. What works for one person may not be ideal for another — your prescription, daily activities, facial anatomy, and budget all play a role in determining the best approach.</p>\n\n        <p>If you're in the Edmonton area, <a href=\"https://charmoptical.ca\">Charm Optical</a> offers <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">comprehensive eye exams</a> that go beyond just measuring your prescription. Their optometrists assess your overall eye health, discuss your visual needs, and recommend lens and frame options tailored to your lifestyle. With <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescriptions, getting the right eyewear doesn't have to be complicated or expensive. <a href=\"https://see.charmoptical.ca\">Book online</a> — appointments are usually available within a few days.</p>"
+    },
+    {
+      "h2": "PD (Pupillary Distance): Where to Center the Lenses",
+      "content": "<p>PD measures the distance between the centres of your pupils in millimeters. This measurement ensures the optical centre of each lens aligns with your pupil — critical for clear, comfortable vision.</p><ul><li><strong>Average adult PD:</strong> 54–74mm (measured as a single number) or as two numbers for each eye (e.g., 31/32)</li><li><strong>Why it matters:</strong> Lenses not centred on your pupils create prismatic effects that cause headaches, eye strain, and blurry edges</li><li><strong>Single PD vs. dual PD:</strong> A single number (e.g., 63) is the total distance. Dual PD (e.g., 31/32) is measured from the centre of your nose to each pupil — more precise and important for strong prescriptions</li></ul><p>PD is not always written on your prescription — in many provinces, optometrists provide it only upon request. If you're ordering glasses online, you'll need it. When you buy from <a href='https://charmoptical.ca/pages/eye-exam-edmonton'>an in-store optician like Charm Optical</a>, they measure your PD as part of the fitting process, along with fitting height for progressive lenses.</p>"
+    },
+    {
+      "h2": "Other Terms You Might See",
+      "content": "<ul><li><strong>PRISM:</strong> A correction for eye alignment issues (strabismus). Not common. Measured in prism diopters with a direction (base up, base down, base in, base out).</li><li><strong>BI/BO/BU/BD:</strong> Direction of prism correction — base in, base out, base up, base down.</li><li><strong>NV or DV:</strong> Near vision or distance vision — sometimes prescriptions separate these.</li><li><strong>Expiry date:</strong> In Alberta, glasses prescriptions are valid for 2 years. After that, you need a new <a href='https://see.charmoptical.ca'>eye exam</a> before ordering new glasses.</li><li><strong>Plano (Pl or 0.00):</strong> No correction needed in that field.</li></ul>\n        <p>This is one of the most common questions that comes up during eye exams, and the answer often depends on individual factors that only a professional assessment can evaluate. What works for one person may not be ideal for another — your prescription, daily activities, facial anatomy, and budget all play a role in determining the best approach.</p>\n\n        <p>If you're in the Edmonton area, <a href=\"https://charmoptical.ca\">Charm Optical</a> offers <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">comprehensive eye exams</a> that go beyond just measuring your prescription. Their optometrists assess your overall eye health, discuss your visual needs, and recommend lens and frame options tailored to your lifestyle. With <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescriptions, getting the right eyewear doesn't have to be complicated or expensive. <a href=\"https://see.charmoptical.ca\">Book online</a> — appointments are usually available within a few days.</p>"
+    },
+    {
+      "h2": "How to Tell If Your Prescription Is Strong",
+      "content": "<table><thead><tr><th>SPH Range</th><th>Strength</th><th>Lens Recommendation</th></tr></thead><tbody><tr><td>0 to ±2.00</td><td>Mild</td><td>Standard plastic (CR-39) lenses are fine</td></tr><tr><td>±2.25 to ±4.00</td><td>Moderate</td><td>Mid-index (1.60) lenses for thinner profile</td></tr><tr><td>±4.25 to ±6.00</td><td>Strong</td><td>High-index (1.67) recommended</td></tr><tr><td>±6.25 and above</td><td>Very strong</td><td>Ultra high-index (1.74) strongly recommended</td></tr></tbody></table><p>Stronger prescriptions benefit from smaller frames (less lens thickness at the edges), anti-reflective coating (reduces visible lens rings), and high-index materials. <a href='https://charmoptical.ca/collections/glasses'>Charm Optical's opticians</a> can show you the thickness difference between lens materials side by side.</p>\n        <p>If you're uncomfortable making adjustments yourself, or if the issue persists after trying these steps, take your glasses to a professional. Optical stores have specialized tools designed specifically for eyewear — household tools like regular pliers can easily crack lenses or snap frame hinges. Most adjustments take less than five minutes in-store and are typically free of charge.</p>\n\n        <p><a href=\"https://charmoptical.ca\">Charm Optical in Edmonton</a> offers free adjustments and minor repairs for any glasses — even if you didn't buy them there. Their opticians can also check whether your frames are still aligned correctly with your prescription, which is especially important for progressive lenses where even small shifts affect vision quality. If your glasses need more than an adjustment, they carry replacement parts for most major brands and can often fix broken hinges, replace nose pads, and resurface temple tips on the spot.</p>"
+    },
+    {
+      "h2": "Getting Your Prescription Right",
+      "content": "<p>Your glasses are only as good as your prescription. An outdated or inaccurate prescription means blurry vision no matter how expensive your lenses are. The Canadian Association of Optometrists recommends eye exams every 1-2 years for adults and annually for children, seniors, and anyone with diabetes or a family history of eye disease.</p>\n\n        <p>A comprehensive eye exam does far more than measure your prescription. Your optometrist checks the health of your retina, optic nerve, and blood vessels — catching conditions like glaucoma, macular degeneration, and diabetic retinopathy early, often before you notice any symptoms. They also measure your intraocular pressure, test your peripheral vision, and assess how your eyes work together as a team.</p>\n\n        <p>In Alberta, a comprehensive eye exam typically costs $100-$180 if not covered by insurance. Most employer plans cover the exam fee entirely. Children under 18 and adults over 65 receive coverage through Alberta Health. <a href=\"https://charmoptical.ca\">Charm Optical in Edmonton</a> offers <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">comprehensive eye exam at Charm Optical</a> with experienced optometrists and direct-bills most <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a>. <a href=\"https://see.charmoptical.ca\">book an eye exam online</a> online — appointments are usually available within a few days.</p>"
+    },
+    {
+      "h2": "Why Good Eyewear Matters",
+      "content": "<p>Your eyes are one of the most important tools you have, and they deserve proper care and correction. The technology behind modern eyewear has advanced remarkably in recent years — from digital freeform progressive lenses that customize the optics to your exact wearing position, to lightweight titanium frames that weigh less than a coin, to anti-reflective coatings that virtually eliminate glare. Understanding these options empowers you to make better choices about your eye health and get glasses that genuinely improve your quality of life rather than just meeting a basic need.</p><p>Regular eye exams are the foundation of good vision care. The Canadian Association of Optometrists recommends exams every one to two years for adults and annually for children, seniors over 65, and anyone with diabetes or a family history of eye disease. A comprehensive exam does far more than measure your prescription — your optometrist checks the health of your retina, optic nerve, and blood vessels, catching conditions like glaucoma and macular degeneration in their earliest stages. Many serious eye conditions have no noticeable symptoms until significant damage has occurred, making preventive exams essential.</p>"
+    },
+    {
+      "h2": "The Bottom Line",
+      "content": "<p>The best next step is always a professional eye exam. Your optometrist can evaluate your specific needs and recommend the right combination of lenses, coatings, and frames for your lifestyle and budget. In Alberta, most employer insurance plans cover comprehensive eye exams, and children under 18 and adults over 65 receive coverage through Alberta Health.</p><p><a href=\"https://charmoptical.ca\">Charm Optical</a> at 5035 Ellerslie Rd SW in South Edmonton offers thorough <a href=\"https://charmoptical.ca/pages/eye-exam-edmonton\">eye exams</a> with experienced optometrists, a selection of over 500 designer frames from brands like <a href=\"https://charmoptical.ca/pages/ray-ban\">Ray-Ban</a>, <a href=\"https://charmoptical.ca/pages/oakley\">Oakley</a>, and <a href=\"https://charmoptical.ca/pages/versace\">Versace</a>, and <a href=\"https://charmoptical.ca/pages/same-day-glasses\">same-day glasses</a> for many prescription types. They offer <a href=\"https://charmoptical.ca/pages/providers\">direct insurance billing</a> for most Alberta providers, so you only pay the difference at the counter.</p><p>Whether you are buying your first pair of glasses, upgrading to progressive lenses, or just need an adjustment on your current frames, having a trusted local optician makes the process smoother. <a href=\"https://see.charmoptical.ca\">Book an appointment online</a> — most appointments are available within a few days, and walk-ins are welcome for adjustments and frame browsing.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What does a minus number mean on a glasses prescription?",
+      "a": "A minus (−) SPH value means you're nearsighted (myopic) — you see nearby objects clearly but distant objects are blurry. The higher the minus number, the stronger the nearsightedness. For example, −4.00 is much more nearsighted than −1.00."
+    },
+    {
+      "q": "What does ADD mean on my glasses prescription?",
+      "a": "ADD (addition) is the extra magnifying power for reading, added on top of your distance prescription. It appears on prescriptions for people with presbyopia (usually age 40+) and indicates you need bifocal or progressive lenses."
+    },
+    {
+      "q": "How long is a glasses prescription valid in Alberta?",
+      "a": "In Alberta, glasses prescriptions are valid for 2 years from the exam date. After that, you'll need a new eye exam before ordering glasses. Book an exam at Charm Optical in Edmonton to get an updated prescription."
+    },
+    {
+      "q": "What is PD and why do I need it for glasses?",
+      "a": "PD (pupillary distance) is the distance between your pupils in millimeters. It's essential for centering the lenses correctly in your frames. Incorrectly centered lenses cause headaches and blurry vision. Your optician measures this during the fitting process."
+    },
+    {
+      "q": "How often should I get my eyes checked?",
+      "a": "Adults should get a comprehensive eye exam every 1-2 years. Children, seniors, diabetics, and those with family history of eye disease should go annually. Charm Optical in Edmonton offers thorough eye exams with experienced optometrists — book online at see.charmoptical.ca."
+    },
+    {
+      "q": "Can I use my prescription to buy glasses anywhere?",
+      "a": "Yes, in Canada your prescription belongs to you and you can use it at any optical store. However, progressive lenses require additional measurements (PD, segment height) that must be taken in person. Charm Optical takes these measurements for free during your frame selection."
+    }
+  ],
+  "related": [
+    {
+      "slug": "types-of-glasses",
+      "cat": "Lenses",
+      "title": "Types of Glasses Explained"
+    },
+    {
+      "slug": "what-are-progressive-lenses",
+      "cat": "Lenses",
+      "title": "What Are Progressive Lenses?"
+    },
+    {
+      "slug": "best-online-glasses-canada",
+      "cat": "Buying Guide",
+      "title": "Buying Glasses Online in Canada"
+    },
+    {
+      "slug": "progressive-lenses-meaning",
+      "cat": "Lenses",
+      "title": "Progressive Lenses Meaning"
+    }
+  ],
+  "ctaTitle": "Need a New Prescription?",
+  "ctaText": "Charm Optical in South Edmonton offers comprehensive eye exams with experienced optometrists. Direct insurance billing for most Alberta plans.",
+  "ctaLink": "https://see.charmoptical.ca",
+  "ctaButtonText": "Book Your Eye Exam"
+}

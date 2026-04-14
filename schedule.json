@@ -1,0 +1,834 @@
+[
+  {
+    "week": 1,
+    "date": "2026-04-20",
+    "slug": "best-online-glasses-canada",
+    "keyword": "best online glasses canada",
+    "volume": 1900,
+    "category": "buying-guide"
+  },
+  {
+    "week": 1,
+    "date": "2026-04-22",
+    "slug": "how-to-fix-loose-glasses",
+    "keyword": "how to fix loose glasses",
+    "volume": 1800,
+    "category": "care"
+  },
+  {
+    "week": 1,
+    "date": "2026-04-24",
+    "slug": "do-blue-light-glasses-work",
+    "keyword": "do blue light glasses work",
+    "volume": 1600,
+    "category": "lenses"
+  },
+  {
+    "week": 1,
+    "date": "2026-04-26",
+    "slug": "square-glasses",
+    "keyword": "square glasses",
+    "volume": 1300,
+    "category": "frames"
+  },
+  {
+    "week": 2,
+    "date": "2026-04-27",
+    "slug": "types-of-glasses",
+    "keyword": "types of glasses",
+    "volume": 1000,
+    "category": "lenses"
+  },
+  {
+    "week": 2,
+    "date": "2026-04-29",
+    "slug": "anti-glare-glasses",
+    "keyword": "anti glare glasses",
+    "volume": 1000,
+    "category": "coatings"
+  },
+  {
+    "week": 2,
+    "date": "2026-05-01",
+    "slug": "what-are-progressive-lenses",
+    "keyword": "what are progressive lenses",
+    "volume": 1000,
+    "category": "lenses"
+  },
+  {
+    "week": 2,
+    "date": "2026-05-03",
+    "slug": "when-were-glasses-invented",
+    "keyword": "when were glasses invented",
+    "volume": 900,
+    "category": "lenses"
+  },
+  {
+    "week": 3,
+    "date": "2026-05-04",
+    "slug": "what-glasses-suit-my-face",
+    "keyword": "what glasses suit my face",
+    "volume": 800,
+    "category": "lenses"
+  },
+  {
+    "week": 3,
+    "date": "2026-05-06",
+    "slug": "glasses-cleaner",
+    "keyword": "glasses cleaner",
+    "volume": 700,
+    "category": "care"
+  },
+  {
+    "week": 3,
+    "date": "2026-05-08",
+    "slug": "best-glasses-for-round-face",
+    "keyword": "best glasses for round face",
+    "volume": 600,
+    "category": "buying-guide"
+  },
+  {
+    "week": 3,
+    "date": "2026-05-10",
+    "slug": "best-blue-light-glasses",
+    "keyword": "best blue light glasses",
+    "volume": 600,
+    "category": "buying-guide"
+  },
+  {
+    "week": 4,
+    "date": "2026-05-11",
+    "slug": "how-to-clean-glasses",
+    "keyword": "how to clean glasses",
+    "volume": 600,
+    "category": "care"
+  },
+  {
+    "week": 4,
+    "date": "2026-05-13",
+    "slug": "blue-light-glasses-benefits",
+    "keyword": "blue light glasses benefits",
+    "volume": 500,
+    "category": "lenses"
+  },
+  {
+    "week": 4,
+    "date": "2026-05-15",
+    "slug": "best-glasses-for-face-shape",
+    "keyword": "best glasses for face shape",
+    "volume": 500,
+    "category": "buying-guide"
+  },
+  {
+    "week": 4,
+    "date": "2026-05-17",
+    "slug": "what-do-blue-light-glasses-do",
+    "keyword": "what do blue light glasses do",
+    "volume": 500,
+    "category": "lenses"
+  },
+  {
+    "week": 5,
+    "date": "2026-05-18",
+    "slug": "osiris-eyeglasses",
+    "keyword": "osiris eyeglasses",
+    "volume": 500,
+    "category": "lenses"
+  },
+  {
+    "week": 5,
+    "date": "2026-05-20",
+    "slug": "best-smart-glasses",
+    "keyword": "best smart glasses",
+    "volume": 450,
+    "category": "buying-guide"
+  },
+  {
+    "week": 5,
+    "date": "2026-05-22",
+    "slug": "progressive-lenses-meaning",
+    "keyword": "progressive lenses meaning",
+    "volume": 450,
+    "category": "lenses"
+  },
+  {
+    "week": 5,
+    "date": "2026-05-24",
+    "slug": "how-to-read-glasses-prescription",
+    "keyword": "how to read glasses prescription",
+    "volume": 400,
+    "category": "prescriptions"
+  },
+  {
+    "week": 6,
+    "date": "2026-05-25",
+    "slug": "best-ai-glasses",
+    "keyword": "best ai glasses",
+    "volume": 400,
+    "category": "buying-guide"
+  },
+  {
+    "week": 6,
+    "date": "2026-05-27",
+    "slug": "types-of-glasses-frames",
+    "keyword": "types of glasses frames",
+    "volume": 400,
+    "category": "frames"
+  },
+  {
+    "week": 6,
+    "date": "2026-05-29",
+    "slug": "louis-vuitton-glasses",
+    "keyword": "louis vuitton glasses",
+    "volume": 400,
+    "category": "lenses"
+  },
+  {
+    "week": 6,
+    "date": "2026-05-31",
+    "slug": "osiris-glasses-frames",
+    "keyword": "osiris glasses frames",
+    "volume": 400,
+    "category": "frames"
+  },
+  {
+    "week": 7,
+    "date": "2026-06-01",
+    "slug": "how-to-clean-eyeglasses-properly",
+    "keyword": "how to clean eyeglasses properly",
+    "volume": 400,
+    "category": "care"
+  },
+  {
+    "week": 7,
+    "date": "2026-06-03",
+    "slug": "what-are-blue-light-glasses",
+    "keyword": "what are blue light glasses",
+    "volume": 350,
+    "category": "lenses"
+  },
+  {
+    "week": 7,
+    "date": "2026-06-05",
+    "slug": "how-to-tighten-glasses",
+    "keyword": "how to tighten glasses",
+    "volume": 350,
+    "category": "care"
+  },
+  {
+    "week": 7,
+    "date": "2026-06-07",
+    "slug": "g-is-for-glasses",
+    "keyword": "g is for glasses",
+    "volume": 350,
+    "category": "lenses"
+  },
+  {
+    "week": 8,
+    "date": "2026-06-08",
+    "slug": "progressive-glasses-meaning",
+    "keyword": "progressive glasses meaning",
+    "volume": 350,
+    "category": "lenses"
+  },
+  {
+    "week": 8,
+    "date": "2026-06-10",
+    "slug": "square-frame-glasses",
+    "keyword": "square frame glasses",
+    "volume": 350,
+    "category": "frames"
+  },
+  {
+    "week": 8,
+    "date": "2026-06-12",
+    "slug": "glasses-for-square-face",
+    "keyword": "glasses for square face",
+    "volume": 350,
+    "category": "lenses"
+  },
+  {
+    "week": 8,
+    "date": "2026-06-14",
+    "slug": "best-glasses-for-oval-face",
+    "keyword": "best glasses for oval face",
+    "volume": 350,
+    "category": "frames"
+  },
+  {
+    "week": 9,
+    "date": "2026-06-15",
+    "slug": "how-many-glasses-of-water-per-day",
+    "keyword": "how many glasses of water per day",
+    "volume": 350,
+    "category": "lenses"
+  },
+  {
+    "week": 9,
+    "date": "2026-06-17",
+    "slug": "best-ar-glasses",
+    "keyword": "best ar glasses",
+    "volume": 350,
+    "category": "buying-guide"
+  },
+  {
+    "week": 9,
+    "date": "2026-06-19",
+    "slug": "how-do-glasses-work",
+    "keyword": "how do glasses work",
+    "volume": 350,
+    "category": "lenses"
+  },
+  {
+    "week": 9,
+    "date": "2026-06-21",
+    "slug": "best-blue-light-blocking-glasses",
+    "keyword": "best blue light blocking glasses",
+    "volume": 300,
+    "category": "buying-guide"
+  },
+  {
+    "week": 10,
+    "date": "2026-06-22",
+    "slug": "which-glasses-suit-my-face",
+    "keyword": "which glasses suit my face",
+    "volume": 300,
+    "category": "lenses"
+  },
+  {
+    "week": 10,
+    "date": "2026-06-24",
+    "slug": "are-blue-light-glasses-worth-it",
+    "keyword": "are blue light glasses worth it",
+    "volume": 300,
+    "category": "buying-guide"
+  },
+  {
+    "week": 10,
+    "date": "2026-06-26",
+    "slug": "best-glasses-shape-for-oval-face",
+    "keyword": "best glasses shape for oval face",
+    "volume": 300,
+    "category": "frames"
+  },
+  {
+    "week": 10,
+    "date": "2026-06-28",
+    "slug": "best-reading-glasses",
+    "keyword": "best reading glasses",
+    "volume": 300,
+    "category": "buying-guide"
+  },
+  {
+    "week": 11,
+    "date": "2026-06-29",
+    "slug": "iris-glasses",
+    "keyword": "iris glasses",
+    "volume": 300,
+    "category": "lenses"
+  },
+  {
+    "week": 11,
+    "date": "2026-07-01",
+    "slug": "what-are-smart-glasses",
+    "keyword": "what are smart glasses",
+    "volume": 300,
+    "category": "lenses"
+  },
+  {
+    "week": 11,
+    "date": "2026-07-03",
+    "slug": "what-to-do-with-old-glasses",
+    "keyword": "what to do with old glasses",
+    "volume": 300,
+    "category": "lenses"
+  },
+  {
+    "week": 11,
+    "date": "2026-07-05",
+    "slug": "what-is-progressive-lenses",
+    "keyword": "what is progressive lenses",
+    "volume": 300,
+    "category": "lenses"
+  },
+  {
+    "week": 12,
+    "date": "2026-07-06",
+    "slug": "glasses-types",
+    "keyword": "glasses types",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 12,
+    "date": "2026-07-08",
+    "slug": "best-safety-glasses",
+    "keyword": "best safety glasses",
+    "volume": 250,
+    "category": "buying-guide"
+  },
+  {
+    "week": 12,
+    "date": "2026-07-10",
+    "slug": "does-blue-light-glasses-work",
+    "keyword": "does blue light glasses work",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 12,
+    "date": "2026-07-12",
+    "slug": "rose-tinted-glasses-meaning",
+    "keyword": "rose tinted glasses meaning",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 13,
+    "date": "2026-07-13",
+    "slug": "work-glasses",
+    "keyword": "work glasses",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 13,
+    "date": "2026-07-15",
+    "slug": "how-to-fix-scratches-on-glasses",
+    "keyword": "how to fix scratches on glasses",
+    "volume": 250,
+    "category": "care"
+  },
+  {
+    "week": 13,
+    "date": "2026-07-17",
+    "slug": "how-much-do-prescription-glasses-cost-in-canada",
+    "keyword": "how much do prescription glasses cost in canada",
+    "volume": 250,
+    "category": "prescriptions"
+  },
+  {
+    "week": 13,
+    "date": "2026-07-19",
+    "slug": "what-are-progressive-glasses",
+    "keyword": "what are progressive glasses",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 14,
+    "date": "2026-07-20",
+    "slug": "osiris-prescription-glasses",
+    "keyword": "osiris prescription glasses",
+    "volume": 250,
+    "category": "prescriptions"
+  },
+  {
+    "week": 14,
+    "date": "2026-07-22",
+    "slug": "where-to-buy-glasses",
+    "keyword": "where to buy glasses",
+    "volume": 250,
+    "category": "buying-guide"
+  },
+  {
+    "week": 14,
+    "date": "2026-07-24",
+    "slug": "glasses-prescription-explained",
+    "keyword": "glasses prescription explained",
+    "volume": 250,
+    "category": "prescriptions"
+  },
+  {
+    "week": 14,
+    "date": "2026-07-26",
+    "slug": "best-glasses-for-men",
+    "keyword": "best glasses for men",
+    "volume": 250,
+    "category": "buying-guide"
+  },
+  {
+    "week": 15,
+    "date": "2026-07-27",
+    "slug": "lacoste-glasses",
+    "keyword": "lacoste glasses",
+    "volume": 250,
+    "category": "buying-guide"
+  },
+  {
+    "week": 15,
+    "date": "2026-07-29",
+    "slug": "what-are-ai-glasses",
+    "keyword": "what are ai glasses",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 15,
+    "date": "2026-07-31",
+    "slug": "best-online-prescription-glasses",
+    "keyword": "best online prescription glasses",
+    "volume": 250,
+    "category": "prescriptions"
+  },
+  {
+    "week": 15,
+    "date": "2026-08-02",
+    "slug": "what-are-bifocal-glasses",
+    "keyword": "what are bifocal glasses",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 16,
+    "date": "2026-08-03",
+    "slug": "how-to-draw-glasses",
+    "keyword": "how to draw glasses",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 16,
+    "date": "2026-08-05",
+    "slug": "signs-you-need-glasses",
+    "keyword": "signs you need glasses",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 16,
+    "date": "2026-08-07",
+    "slug": "osiris-reading-glasses",
+    "keyword": "osiris reading glasses",
+    "volume": 250,
+    "category": "lenses"
+  },
+  {
+    "week": 16,
+    "date": "2026-08-09",
+    "slug": "how-much-are-glasses",
+    "keyword": "how much are glasses",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 17,
+    "date": "2026-08-10",
+    "slug": "how-much-are-prescription-glasses",
+    "keyword": "how much are prescription glasses",
+    "volume": 200,
+    "category": "prescriptions"
+  },
+  {
+    "week": 17,
+    "date": "2026-08-12",
+    "slug": "can-glasses-fix-astigmatism",
+    "keyword": "can glasses fix astigmatism",
+    "volume": 200,
+    "category": "eye-conditions"
+  },
+  {
+    "week": 17,
+    "date": "2026-08-14",
+    "slug": "glasses-cleaning-kit",
+    "keyword": "glasses cleaning kit",
+    "volume": 200,
+    "category": "care"
+  },
+  {
+    "week": 17,
+    "date": "2026-08-16",
+    "slug": "levis-prescription-glasses",
+    "keyword": "levis prescription glasses",
+    "volume": 200,
+    "category": "prescriptions"
+  },
+  {
+    "week": 18,
+    "date": "2026-08-17",
+    "slug": "best-glasses-shape-for-square-face",
+    "keyword": "best glasses shape for square face",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 18,
+    "date": "2026-08-19",
+    "slug": "adjustable-glasses",
+    "keyword": "adjustable glasses",
+    "volume": 200,
+    "category": "care"
+  },
+  {
+    "week": 18,
+    "date": "2026-08-21",
+    "slug": "how-to-get-scratches-out-of-glasses",
+    "keyword": "how to get scratches out of glasses",
+    "volume": 200,
+    "category": "care"
+  },
+  {
+    "week": 18,
+    "date": "2026-08-23",
+    "slug": "how-to-stop-glasses-from-sliding-down-nose",
+    "keyword": "how to stop glasses from sliding down nose",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 19,
+    "date": "2026-08-24",
+    "slug": "osiris-glasses",
+    "keyword": "osiris glasses",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 19,
+    "date": "2026-08-26",
+    "slug": "rose-colored-glasses-meaning",
+    "keyword": "rose colored glasses meaning",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 19,
+    "date": "2026-08-28",
+    "slug": "where-to-buy-blue-light-glasses",
+    "keyword": "where to buy blue light glasses",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 19,
+    "date": "2026-08-30",
+    "slug": "what-is-pd-in-glasses",
+    "keyword": "what is pd in glasses",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 20,
+    "date": "2026-08-31",
+    "slug": "how-to-adjust-glasses",
+    "keyword": "how to adjust glasses",
+    "volume": 200,
+    "category": "care"
+  },
+  {
+    "week": 20,
+    "date": "2026-09-02",
+    "slug": "costa-glasses",
+    "keyword": "costa glasses",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 20,
+    "date": "2026-09-04",
+    "slug": "how-to-get-rid-of-scratches-on-glasses",
+    "keyword": "how to get rid of scratches on glasses",
+    "volume": 200,
+    "category": "care"
+  },
+  {
+    "week": 20,
+    "date": "2026-09-06",
+    "slug": "where-to-get-prescription-glasses",
+    "keyword": "where to get prescription glasses",
+    "volume": 200,
+    "category": "prescriptions"
+  },
+  {
+    "week": 21,
+    "date": "2026-09-07",
+    "slug": "best-glasses",
+    "keyword": "best glasses",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 21,
+    "date": "2026-09-09",
+    "slug": "what-does-axis-mean-for-glasses",
+    "keyword": "what does axis mean for glasses",
+    "volume": 200,
+    "category": "prescriptions"
+  },
+  {
+    "week": 21,
+    "date": "2026-09-11",
+    "slug": "how-much-do-glasses-cost",
+    "keyword": "how much do glasses cost",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 21,
+    "date": "2026-09-13",
+    "slug": "how-to-buy-prescription-glasses-online",
+    "keyword": "how to buy prescription glasses online",
+    "volume": 200,
+    "category": "prescriptions"
+  },
+  {
+    "week": 22,
+    "date": "2026-09-14",
+    "slug": "ai-glasses-price",
+    "keyword": "ai glasses price",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 22,
+    "date": "2026-09-16",
+    "slug": "best-prescription-glasses",
+    "keyword": "best prescription glasses",
+    "volume": 200,
+    "category": "prescriptions"
+  },
+  {
+    "week": 22,
+    "date": "2026-09-18",
+    "slug": "do-blue-light-glasses-actually-do-anything",
+    "keyword": "do blue light glasses actually do anything",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 22,
+    "date": "2026-09-20",
+    "slug": "best-glasses-shape-for-round-face",
+    "keyword": "best glasses shape for round face",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 23,
+    "date": "2026-09-21",
+    "slug": "best-glasses-for-square-face",
+    "keyword": "best glasses for square face",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 23,
+    "date": "2026-09-23",
+    "slug": "rose-coloured-glasses-meaning",
+    "keyword": "rose coloured glasses meaning",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 23,
+    "date": "2026-09-25",
+    "slug": "best-cycling-glasses",
+    "keyword": "best cycling glasses",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 23,
+    "date": "2026-09-27",
+    "slug": "are-blue-light-glasses-effective",
+    "keyword": "are blue light glasses effective",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 24,
+    "date": "2026-09-28",
+    "slug": "what-is-blue-light-glasses",
+    "keyword": "what is blue light glasses",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 24,
+    "date": "2026-09-30",
+    "slug": "where-to-buy-glasses-online",
+    "keyword": "where to buy glasses online",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 24,
+    "date": "2026-10-02",
+    "slug": "best-anti-glare-night-driving-glasses",
+    "keyword": "best anti glare night driving glasses",
+    "volume": 200,
+    "category": "coatings"
+  },
+  {
+    "week": 24,
+    "date": "2026-10-04",
+    "slug": "different-types-of-glasses",
+    "keyword": "different types of glasses",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 25,
+    "date": "2026-10-05",
+    "slug": "best-way-to-clean-glasses",
+    "keyword": "best way to clean glasses",
+    "volume": 200,
+    "category": "care"
+  },
+  {
+    "week": 25,
+    "date": "2026-10-07",
+    "slug": "how-to-measure-pd-for-glasses",
+    "keyword": "how to measure pd for glasses",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 25,
+    "date": "2026-10-09",
+    "slug": "how-to-remove-scratches-from-glasses",
+    "keyword": "how to remove scratches from glasses",
+    "volume": 200,
+    "category": "care"
+  },
+  {
+    "week": 25,
+    "date": "2026-10-11",
+    "slug": "davis-schneider-glasses",
+    "keyword": "davis schneider glasses",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 26,
+    "date": "2026-10-12",
+    "slug": "do-i-need-glasses",
+    "keyword": "do i need glasses",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 26,
+    "date": "2026-10-14",
+    "slug": "best-online-eyeglasses-canada",
+    "keyword": "best online eyeglasses canada",
+    "volume": 200,
+    "category": "buying-guide"
+  },
+  {
+    "week": 26,
+    "date": "2026-10-16",
+    "slug": "can-you-get-progressive-contact-lenses",
+    "keyword": "can you get progressive contact lenses",
+    "volume": 200,
+    "category": "lenses"
+  },
+  {
+    "week": 26,
+    "date": "2026-10-18",
+    "slug": "anti-glare-blue-light-glasses",
+    "keyword": "anti glare blue light glasses",
+    "volume": 150,
+    "category": "coatings"
+  }
+]
