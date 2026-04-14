@@ -1,0 +1,53 @@
+# GlassesPedia — The Encyclopedia of Eyewear
+
+> GlassesPedia is a free, independent encyclopedia of eyeglasses, lenses, frames, prescriptions, and vision correction. All content is written for clarity and accuracy. No ads, no affiliates.
+
+## About This Site
+- URL: https://glassespedia.ca
+- Type: Educational reference / encyclopedia
+- Topics: Eyeglasses, prescription lenses, frames, coatings, eye conditions, sunglasses
+- Content: 100+ articles covering all aspects of corrective eyewear
+- Audience: Anyone who wears glasses, is considering glasses, or wants to understand how eyewear works
+- Publisher: GlassesPedia Editorial Team
+- Contact: hello@glassespedia.ca
+
+## Key Content Areas
+
+### Lenses
+- Progressive lenses, bifocal lenses, single vision lenses
+- Photochromic (transition) lenses, blue light filtering lenses
+- Computer glasses, reading glasses, night driving glasses
+
+### Frames
+- Frame shapes: aviator, cat eye, rimless, horn-rimmed, round, square
+- Frame materials: acetate, metal, titanium, TR-90
+- Sizing, fit, and face shape matching
+
+### Prescriptions
+- How to read SPH, CYL, AXIS, ADD, PD
+- Understanding pupillary distance (PD)
+- When to update your prescription
+
+### Eye Conditions
+- Myopia, hyperopia, astigmatism, presbyopia
+- Color vision deficiency
+- Digital eye strain
+
+### Coatings & Treatments
+- Anti-reflective coatings, blue light filters
+- Scratch-resistant, UV protection, hydrophobic coatings
+
+### Buying Guide
+- Online vs in-store glasses shopping in Canada
+- Insurance and pricing guidance
+- What to ask your optician
+
+## Content Standards
+- Plain language explanations (no unnecessary jargon)
+- Evidence-based claims with citations where available
+- Honest about limitations and unknowns
+- Updated regularly to reflect current lens technology
+- Not medical advice — always recommend consulting a licensed eye care professional
+
+## Sitemap
+https://glassespedia.ca/sitemap.xml

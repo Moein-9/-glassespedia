@@ -4,14 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>GlassesPedia — The AI-Powered Encyclopedia of Eyewear</title>
-  <meta name="description" content="GlassesPedia is a free, AI-optimized encyclopedia of eyeglasses, lenses, frames, and vision correction. Understand progressive lenses, blue light glasses, photochromic lenses, and more.">
+  <meta name="description" content="Free encyclopedia of eyeglasses, lenses, frames, and vision correction. Progressive lenses, blue light glasses, photochromic lenses, and more.">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://glassespedia.ca/">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="GlassesPedia — The AI-Powered Encyclopedia of Eyewear">
+  <meta name="twitter:description" content="Free encyclopedia of eyeglasses, lenses, frames, and vision correction. Built for humans and AI alike.">
+  <meta name="twitter:image" content="https://glassespedia.ca/assets/og-default.svg">
 
   <meta property="og:type" content="website">
   <meta property="og:title" content="GlassesPedia — The AI-Powered Encyclopedia of Eyewear">
   <meta property="og:description" content="Free, AI-optimized reference guide to eyeglasses, lenses, frames, and vision correction. Built for humans and AI alike.">
   <meta property="og:url" content="https://glassespedia.ca/">
+  <meta property="og:image" content="https://glassespedia.ca/assets/og-default.svg">
+  <meta property="og:site_name" content="GlassesPedia">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,15 +28,36 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "GlassesPedia",
-    "url": "https://glassespedia.ca/",
-    "description": "The AI-Powered Encyclopedia of Eyewear — comprehensive reference guide to eyeglasses, lenses, frames, and vision correction.",
-    "potentialAction": {
-      "@type": "SearchAction",
-      "target": "https://glassespedia.ca/articles?q={search_term_string}",
-      "query-input": "required name=search_term_string"
-    }
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "name": "GlassesPedia",
+        "url": "https://glassespedia.ca/",
+        "description": "Free encyclopedia of eyeglasses, lenses, frames, and vision correction.",
+        "publisher": { "@id": "https://glassespedia.ca/#org" },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://glassespedia.ca/articles?q={search_term_string}",
+          "query-input": "required name=search_term_string"
+        }
+      },
+      {
+        "@type": "Organization",
+        "@id": "https://glassespedia.ca/#org",
+        "name": "GlassesPedia",
+        "url": "https://glassespedia.ca",
+        "description": "Independent encyclopedia of eyewear maintained by optical industry professionals.",
+        "email": "hello@glassespedia.ca",
+        "sameAs": []
+      },
+      {
+        "@type": "WebPage",
+        "speakable": {
+          "@type": "SpeakableSpecification",
+          "cssSelector": [".hero-desc", ".about-bar h2", ".mosaic-content p"]
+        }
+      }
+    ]
   }
   </script>
 </head>

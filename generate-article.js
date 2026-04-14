@@ -59,8 +59,14 @@ const TEMPLATE = (d) => `<!DOCTYPE html>
   <link rel="canonical" href="https://glassespedia.ca/articles/${d.slug}">
   <meta property="og:type" content="article">
   <meta property="og:title" content="${esc(d.title)}">
-  <meta property="og:description" content="${esc(d.description)}">
+  <meta property="og:description" content="${esc(d.description).substring(0, 150)}">
   <meta property="og:url" content="https://glassespedia.ca/articles/${d.slug}">
+  <meta property="og:image" content="https://glassespedia.ca/assets/og-default.svg">
+  <meta property="og:site_name" content="GlassesPedia">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="${esc(d.title)}">
+  <meta name="twitter:description" content="${esc(d.description).substring(0, 150)}">
+  <meta name="twitter:image" content="https://glassespedia.ca/assets/og-default.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
